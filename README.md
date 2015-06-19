@@ -2,6 +2,9 @@
 
 This project is part of my final career project.
 
+[Project documentation!](PFC_Jorge.pdf)
+[Bit Them All!!! Repository](https://github.com/DamnCoder/bit-them-all)
+
 # Abstract
 
 The development of video games is the process whereby the necessary elements of a video game are designed and implemented. 
